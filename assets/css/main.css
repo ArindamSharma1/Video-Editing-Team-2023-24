@@ -3731,7 +3731,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(255, 255, 255, 0.35);
+			color: rgb(181, 196, 199);
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
@@ -3900,4 +3900,10 @@ input, select, textarea {
 				background-attachment: scroll;
 			}
 
+		}
+		
+		/*Hover*/
+
+		.hover:hover{
+			color:rgb(109, 210, 244)
 		}
